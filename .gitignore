@@ -1,0 +1,14 @@
+/build/
+*.user
+*.user.*
+*.vcxproj*
+*.pro.user
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+*.exe
+*.pdb
+*.obj
+*.o
